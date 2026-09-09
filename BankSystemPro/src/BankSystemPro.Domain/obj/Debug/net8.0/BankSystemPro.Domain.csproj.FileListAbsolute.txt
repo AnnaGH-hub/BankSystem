@@ -1,0 +1,11 @@
+C:\Users\user\Downloads\BankSystemPro\BankSystemPro\src\BankSystemPro.Domain\bin\Debug\net8.0\BankSystemPro.Domain.deps.json
+C:\Users\user\Downloads\BankSystemPro\BankSystemPro\src\BankSystemPro.Domain\bin\Debug\net8.0\BankSystemPro.Domain.dll
+C:\Users\user\Downloads\BankSystemPro\BankSystemPro\src\BankSystemPro.Domain\bin\Debug\net8.0\BankSystemPro.Domain.pdb
+C:\Users\user\Downloads\BankSystemPro\BankSystemPro\src\BankSystemPro.Domain\obj\Debug\net8.0\BankSystemPro.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\BankSystemPro\BankSystemPro\src\BankSystemPro.Domain\obj\Debug\net8.0\BankSystemPro.Domain.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\BankSystemPro\BankSystemPro\src\BankSystemPro.Domain\obj\Debug\net8.0\BankSystemPro.Domain.AssemblyInfo.cs
+C:\Users\user\Downloads\BankSystemPro\BankSystemPro\src\BankSystemPro.Domain\obj\Debug\net8.0\BankSystemPro.Domain.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\BankSystemPro\BankSystemPro\src\BankSystemPro.Domain\obj\Debug\net8.0\BankSystemPro.Domain.dll
+C:\Users\user\Downloads\BankSystemPro\BankSystemPro\src\BankSystemPro.Domain\obj\Debug\net8.0\refint\BankSystemPro.Domain.dll
+C:\Users\user\Downloads\BankSystemPro\BankSystemPro\src\BankSystemPro.Domain\obj\Debug\net8.0\BankSystemPro.Domain.pdb
+C:\Users\user\Downloads\BankSystemPro\BankSystemPro\src\BankSystemPro.Domain\obj\Debug\net8.0\ref\BankSystemPro.Domain.dll
