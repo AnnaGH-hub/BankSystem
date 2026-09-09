@@ -1,6 +1,6 @@
 # 🏦 BankSystemPro
 
-A mid-level ASP.NET Core Web API demonstrating a layered banking system: role-based access (Admin / Employee / Customer), account operations with transactional transfers, and a loan request/approval workflow — backed by SQL Server via EF Core.
+An ASP.NET Core Web API demonstrating a layered banking system: role-based access (Admin / Employee / Customer), account operations with transactional transfers, and a loan request/approval workflow — backed by SQL Server via EF Core.
 
 Built as a portfolio project to show clean architecture, real business rules, and secure API design — not just CRUD.
 
@@ -138,9 +138,3 @@ Swagger UI will be available at `https://localhost:<port>/swagger` — use it to
 - [ ] Pagination on list endpoints
 - [ ] Dockerfile + docker-compose (API + SQL Server) for one-command local setup
 - [ ] Audit log for admin actions
-
----
-
-## 📄 License
-
-MIT — feel free to fork and adapt for your own portfolio.
